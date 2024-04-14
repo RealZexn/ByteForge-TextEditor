@@ -22,3 +22,4 @@ It will tell you important info and provide links to the credits!
 ***We will continue to work on new projects and maybe even a new text editor!***
 
 
+![image](https://github.com/RealZexn/ByteForge-TextEditor/assets/160764339/56530492-cf6c-4d55-85ed-c0b778ec5957)
