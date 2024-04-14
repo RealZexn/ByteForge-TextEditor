@@ -16,7 +16,9 @@ It will tell you important info and provide links to the credits!
 Also Make Sure To Extract The File Before Running For The Full Experience!
 You Will Get The Logo And More!
 
-
+# How To Download!
+Click On Releases On The Right Side Of The Github Then Download The ZIP File And Extract It!
+Launch AlixiirLauncher.py Then Launch ByteForge.py !!!
 
 # Final Release!
 ***We are no longer updating ByteForge!***
